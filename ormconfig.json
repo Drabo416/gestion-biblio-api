@@ -1,0 +1,16 @@
+[
+	{
+		"name": "default",
+		"type": "mysql",
+		"host": "localhost",
+		"port": 3306,
+		"username": "mohamed",
+		"password": "Drabo@mohamed5985",
+		"database": "biblio",
+		"schema": "",
+		"synchronize": false,
+		"entities": [
+			"dist/**/*.entity{.ts,.js}"
+		]
+	}
+]
